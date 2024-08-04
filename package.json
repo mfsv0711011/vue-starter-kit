@@ -9,7 +9,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.4.31"
+    "@vueuse/core": "^10.11.0",
+    "axios": "^1.7.3",
+    "pinia": "^2.2.0",
+    "vue": "^3.4.31",
+    "vue-i18n": "^9.13.1",
+    "vue-router": "^4.4.2"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.5",
